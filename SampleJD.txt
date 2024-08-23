@@ -1,0 +1,125 @@
+IconIcon
+Skip to main content
+Microsoft
+Careers
+Locations Professions Programs Life at Microsoft Hiring tips
+
+Sign in
+
+Search by job title, ID, or keyword
+
+City, state, or country/region
+Principal Product Manager in Responsible AI
+Multiple Locations, United States
+
++ 5 more locations
+Save
+
+Share job
+
+Date posted
+Aug 23, 2024
+Job number
+1707252
+Work site
+Up to 100% work from home
+Travel
+0-25 %
+Role type
+Individual Contributor
+Profession
+Product Management
+Discipline
+Product Management
+Employment type
+Full-Time
+Overview
+In Azure Artificial Intelligence (AI), we’re ensuring responsible development and deployment of the next generation of cutting-edge generative AI models like GPT-4. If you join our Responsible AI team, you will join an organization committed to partnering with stakeholders across policy, research, and engineering to help every product team in Microsoft ship these evolving technologies responsibly. 
+
+ 
+
+On the Responsible AI team, we work to ensure that each new product or technology we build is developed and used responsibly. As a Principal Product Manager in Responsible AI, you will drive Responsible AI product innovation to design and develop new technologies to address the potential risks of emerging AI and enable developers to successfully and safely use it in real-world applications. 
+
+ 
+
+This role requires a deep understanding of generative AI use cases and responsible AI, a keen sense of product to support responsible AI commitments while keeping product innovation in mind, and deep technical background to develop responsible AI measurement and mitigation techniques. 
+
+ 
+
+This role is flexible in that you will be able to partner with your Manager to define the way that you’d like to work, whether that is in the office or from home. 
+
+   
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+ 
+
+In alignment with our Microsoft values, we are committed to cultivating an inclusive work environment for all employees to positively impact our culture every day.
+
+Qualifications
+Required/Minimum Qualifications:
+
+Bachelor’s Degree AND 8+ years experience in product management or software development
+OR equivalent experience.
+5+ years experience designing and shipping complex products for developers, Machine Learning professionals, or similar.
+3+ years professional experience in machine learning and/or AI. 
+ 
+
+Other Requirements:
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings:
+
+Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+ 
+
+Preferred/Additional Qualifications:
+
+Experience in Responsible AI or Digital Safety or Security 
+Experience with Generative AI. 
+Deep understanding of Natural Language Understanding/Natural Language Processing/Natural Language Generation (NLU/NLP/NLG) and language models  
+Master’s degree or PhD in Machine Learning, NLP, Computational Linguistics or Ethical AI. 
+ 
+
+ 
+
+Product Management IC5 - The typical base pay range for this role across the U.S. is USD $133,600 - $256,800 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $173,200 - $282,200 per year.
+
+Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here: https://careers.microsoft.com/us/en/us-corporate-pay
+
+
+Microsoft will accept applications for the role until August 27, 2024.
+
+ 
+
+ 
+
+
+ 
+
+#microsoft #responsibleai #OpenAI #ChatGPT #AzureAI #AIPlatform#
+
+Responsibilities
+As a Principal Product Manager in Responsible AI, you will build and drive state of the art products that enable customers to apply AI responsibly. Your responsibilities will include: 
+
+ 
+
+Develop a deep understanding of generative AI technology, customer use cases, and responsible AI practices. 
+Spend significant time with customers, homing in on successful patterns and trends to drive new product design and development. 
+Use creative product thinking to synthesize successful solutions into scalable cloud services. 
+Partner closely with engineers and scientists to build models, application programmung interfaces (APIs), services, and complex systems at scale. 
+Be an evangelist for the technology – showcasing successful applications with blogs and demos.
+Other: Embody our Culture and Values
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+Industry leading healthcareEducational resourcesDiscounts on products and servicesSavings and investmentsMaternity and paternity leaveGenerous time awayGiving programsOpportunities to network and connect
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.
+English | FR - Canada
+Support
+Accessibility
+Microsoft Data Privacy Notice
+Legal policies
+Contractor roles
+Your privacy choices
+Privacy
+Trademarks
+Terms of use
+© Microsoft 2024
